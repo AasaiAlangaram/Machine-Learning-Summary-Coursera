@@ -1,2 +1,2 @@
-# Machine-Learning-Summarize-Coursera
+# Machine-Learning-Summary-Coursera
 My understanding of Andrew NG Machine Learning Course 
